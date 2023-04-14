@@ -1,0 +1,90 @@
+body{
+    width:80%;
+
+
+   
+    background-color: yellow;
+}
+h1{
+    font-size: 70px;
+    font-family: 'Roboto';
+}
+h2{
+    font-family: 'Anuphan';
+   
+    font-size:25px;
+}
+/*navbar*/
+.navbar{
+    width:123%;
+}
+.navbar-nav{
+    margin-left:100px;
+}
+.nav-item{
+    padding:0px 10px;
+    font-family: 'Roboto';
+    color: black;
+    font-size: 15px;
+    
+
+    
+}
+svg{
+    width:2%;
+    background-color: yellow;
+    margin-left:30px;
+    position: relative;
+
+    z-index: 1;
+}
+.nav-btn{
+    margin: 0px 20px 20px;
+}
+.fa-brands{
+    background-color: yellow;
+    margin-left:30px;
+}
+.icon{
+    margin-left:8px;
+}
+.fa-snapchat{
+    background-color: white;
+    
+    
+}
+/* row */
+.row{
+    padding:4% 12%;
+}
+.snapchat{
+    width:170%;
+    margin-bottom:60px;
+}
+.btn{
+    margin-top:40px;
+}
+.login-btn{
+    width:250px;
+    height: 60px;
+    font-size: 150%;
+}
+.fa-laptop{
+    margin-right:20px;
+
+    
+}
+/* footer*/
+footer{
+width:100%;
+position:absolute;
+bottom: 0px;
+background-color: black;
+color: white;
+text-align:center;
+font-family: 'Roboto';
+padding-top:10px;
+}
+span{
+    color:yellow;
+}
